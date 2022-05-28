@@ -1,2 +1,2 @@
 #!/bin/bash
-cu_betty
+su betty
